@@ -1,5 +1,6 @@
 Thanks for Downloading my first script: (Jerry Blackwell#5070)
 Credits to 12LetterMeme#0001 for his NUI and some client elements making all of the animations work together.
+Credits to xander1998 for helping me with Syntax errors!
 The Script currently supports 3 webhooks, for 3 different Picture channels (PD / CID / PI)
 This can be used for different Police Departments if you so wish to edit them, the easiset way would be to just edit the Item names to your liking making sure
 the webhooks match up to the correct one.
